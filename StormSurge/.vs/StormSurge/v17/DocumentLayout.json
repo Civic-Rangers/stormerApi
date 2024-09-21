@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\b93ra\\source\\repos\\StormSurge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E14E074E-DE33-4171-8B23-698C5B4A4B63}|StormSurge.Presentation\\StormSurge.Presentation.csproj|c:\\users\\b93ra\\source\\repos\\stormsurge\\stormsurge.presentation\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E14E074E-DE33-4171-8B23-698C5B4A4B63}|StormSurge.Presentation\\StormSurge.Presentation.csproj|solutionrelative:stormsurge.presentation\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1FF8EF-679B-4915-B15A-B11255549431}|Entities\\Entities.csproj|c:\\users\\b93ra\\source\\repos\\stormsurge\\entities\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1FF8EF-679B-4915-B15A-B11255549431}|Entities\\Entities.csproj|solutionrelative:entities\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B7779C4-5E45-4731-A8F2-15F2F1E239F1}|Shared\\Shared.csproj|c:\\users\\b93ra\\source\\repos\\stormsurge\\shared\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B7779C4-5E45-4731-A8F2-15F2F1E239F1}|Shared\\Shared.csproj|solutionrelative:shared\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F7A5E44-5FF3-464D-BC44-441C8343B76F}|Contracts\\Contracts.csproj|c:\\users\\b93ra\\source\\repos\\stormsurge\\contracts\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F7A5E44-5FF3-464D-BC44-441C8343B76F}|Contracts\\Contracts.csproj|solutionrelative:contracts\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F3206A-4C45-485D-9612-D427E0E8AC26}|Service.Contracts\\Service.Contracts.csproj|c:\\users\\b93ra\\source\\repos\\stormsurge\\service.contracts\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F3206A-4C45-485D-9612-D427E0E8AC26}|Service.Contracts\\Service.Contracts.csproj|solutionrelative:service.contracts\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C03967C-E974-4A4D-B5A3-6CD51C934240}|Repository\\Repository.csproj|c:\\users\\b93ra\\source\\repos\\stormsurge\\repository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C03967C-E974-4A4D-B5A3-6CD51C934240}|Repository\\Repository.csproj|solutionrelative:repository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60DA4B68-1E70-43BC-85B9-25654C6ACCFB}|Service\\Service.csproj|c:\\users\\b93ra\\source\\repos\\stormsurge\\service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60DA4B68-1E70-43BC-85B9-25654C6ACCFB}|Service\\Service.csproj|solutionrelative:service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{622D4A2B-44D7-44FA-AE58-DEDF78187058}|StormSurge\\StormSurge.csproj|c:\\users\\b93ra\\source\\repos\\stormsurge\\stormsurge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{622D4A2B-44D7-44FA-AE58-DEDF78187058}|StormSurge\\StormSurge.csproj|solutionrelative:stormsurge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{622D4A2B-44D7-44FA-AE58-DEDF78187058}|StormSurge\\StormSurge.csproj|c:\\users\\b93ra\\source\\repos\\stormsurge\\stormsurge\\stormsurge.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{622D4A2B-44D7-44FA-AE58-DEDF78187058}|StormSurge\\StormSurge.csproj|solutionrelative:stormsurge\\stormsurge.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\b93ra\\source\\repos\\StormSurge\\StormSurge.Presentation\\Class1.cs",
+              "RelativeDocumentMoniker": "StormSurge.Presentation\\Class1.cs",
+              "ToolTip": "C:\\Users\\b93ra\\source\\repos\\StormSurge\\StormSurge.Presentation\\Class1.cs",
+              "RelativeToolTip": "StormSurge.Presentation\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T07:27:25.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\b93ra\\source\\repos\\StormSurge\\Entities\\Class1.cs",
+              "RelativeDocumentMoniker": "Entities\\Class1.cs",
+              "ToolTip": "C:\\Users\\b93ra\\source\\repos\\StormSurge\\Entities\\Class1.cs",
+              "RelativeToolTip": "Entities\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T07:27:03.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\b93ra\\source\\repos\\StormSurge\\Shared\\Class1.cs",
+              "RelativeDocumentMoniker": "Shared\\Class1.cs",
+              "ToolTip": "C:\\Users\\b93ra\\source\\repos\\StormSurge\\Shared\\Class1.cs",
+              "RelativeToolTip": "Shared\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T07:25:50.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\b93ra\\source\\repos\\StormSurge\\Contracts\\Class1.cs",
+              "RelativeDocumentMoniker": "Contracts\\Class1.cs",
+              "ToolTip": "C:\\Users\\b93ra\\source\\repos\\StormSurge\\Contracts\\Class1.cs",
+              "RelativeToolTip": "Contracts\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T07:25:25.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\b93ra\\source\\repos\\StormSurge\\Service.Contracts\\Class1.cs",
+              "RelativeDocumentMoniker": "Service.Contracts\\Class1.cs",
+              "ToolTip": "C:\\Users\\b93ra\\source\\repos\\StormSurge\\Service.Contracts\\Class1.cs",
+              "RelativeToolTip": "Service.Contracts\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T07:24:59.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\b93ra\\source\\repos\\StormSurge\\Repository\\Class1.cs",
+              "RelativeDocumentMoniker": "Repository\\Class1.cs",
+              "ToolTip": "C:\\Users\\b93ra\\source\\repos\\StormSurge\\Repository\\Class1.cs",
+              "RelativeToolTip": "Repository\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T07:24:30.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\b93ra\\source\\repos\\StormSurge\\Service\\Class1.cs",
+              "RelativeDocumentMoniker": "Service\\Class1.cs",
+              "ToolTip": "C:\\Users\\b93ra\\source\\repos\\StormSurge\\Service\\Class1.cs",
+              "RelativeToolTip": "Service\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T07:23:31.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\b93ra\\source\\repos\\StormSurge\\StormSurge\\Program.cs",
+              "RelativeDocumentMoniker": "StormSurge\\Program.cs",
+              "ToolTip": "C:\\Users\\b93ra\\source\\repos\\StormSurge\\StormSurge\\Program.cs",
+              "RelativeToolTip": "StormSurge\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T07:18:00.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StormSurge.http",
+              "DocumentMoniker": "C:\\Users\\b93ra\\source\\repos\\StormSurge\\StormSurge\\StormSurge.http",
+              "RelativeDocumentMoniker": "StormSurge\\StormSurge.http",
+              "ToolTip": "C:\\Users\\b93ra\\source\\repos\\StormSurge\\StormSurge\\StormSurge.http",
+              "RelativeToolTip": "StormSurge\\StormSurge.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-21T07:18:02.79Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
