@@ -1,6 +1,4 @@
-@StormSurge_HostAddress = http://localhost:5259
+@StormSurge_HostAddress = http://localhost:5066
 
-GET {{StormSurge_HostAddress}}/weatherforecast/
-Accept: application/json
 
 ###
